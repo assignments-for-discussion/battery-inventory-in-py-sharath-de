@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+
+# In[6]:
+
+
 def count(a):
     low=[]
     med=[]
@@ -15,3 +21,16 @@ def count(a):
     return l,m,h
 a=[100, 300, 500, 600, 900, 1000]
 print(count(a))
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
